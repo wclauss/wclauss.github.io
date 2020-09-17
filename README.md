@@ -1,2 +1,2 @@
-# wclauss.github.io
+# Will Clauss' GIS Portfolio
 GIS Portfolio
